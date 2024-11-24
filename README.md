@@ -3,7 +3,7 @@ Step-by-Step Instructions
 First, clone the repository containing your project to your local machine. Open your terminal and run:
 
 sh
-git clone https://github.com/yourusername/hobby-recommendation-app.git
+git clone https://github.com/pranavsane/HOBBY_RECCOMENDATION_APP.git
 2. Navigate to the Project Directory
 Change to the project directory:
 
